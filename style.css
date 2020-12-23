@@ -1,0 +1,40 @@
+html{
+  background-color:red;
+    background-image: url(https://img-new.cgtrader.com/items/709418/f2a1a799f6/shuriken-3d-model-obj-stl-sldprt-sldasm-slddrw-ige-igs-iges-mtl-stp.jpg);
+    opacity: 0,5;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+  
+}
+ h3{
+  color:white;
+  text-align: center;
+  font-family:Comic Sans MS, Comic Sans, Cursive;
+  
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-family:Comic Sans MS, Comic Sans, cursive;
+  
+}
+p{color:white;
+text-align:left;
+font-family: Comic Sans MS, Comic Sans, cursive;
+ 
+}
+
+div{
+  background-color: black;
+  margin: 30px;
+  opacity:0.8;
+  font-weight: bold;
+ }
+ embed{
+   autoplay:"true";
+   controls: "true";
+   loop:
+   
